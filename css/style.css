@@ -2,7 +2,7 @@
   body{
       background-color: white;
       text-align: center;
-      width: 960px;
+      /* width: 960px; */
       margin :auto;
   }
   header{
@@ -97,6 +97,15 @@ section {
     width: 480px;
     height: 400px;
   float: left;
+
+
+}
+.textimg {
+    margin: auto;
+    margin-top: 30px;
+    width: 960%;
+    text-align: center;
+    margin-left: 360px;
 
 }
 
