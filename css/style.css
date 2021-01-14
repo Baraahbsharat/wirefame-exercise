@@ -8,6 +8,7 @@
   header{
       margin-bottom: 15px;
       background-color:grey;
+      width: 100%;
   }
 
 
@@ -145,11 +146,13 @@ button {
     margin: 4px 2px;
     transition: 350ms;
 }
-textarea {
+p {
     margin-top: 5px;
     height: 315px;
+    font-size: 25px;
 }
 footer {
     background-color: darkgray;
     height: 100px;
+    width: 100%;
 }
